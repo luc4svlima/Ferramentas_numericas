@@ -1,4 +1,7 @@
-# Critérios de segurança são formas de estabelecer limites nas iterações, podem ser padronizadas ou avançadas e podem ser aplicadas em todos os métodos
+# Um armazém de códigos prontos para métodos numéricos 
+
+
+Sobre critérios de segurança são formas de estabelecer limites nas iterações, podem ser padronizadas ou avançadas e podem ser aplicadas em todos os métodos
 
 a) Diferença entre iterações dentro de um valor limite (Padrão) ->  Muda de método para método, é como uma identidade 
 b) Valor absoluto da função -> Versátil e pode ser usado de forma igual em todos
